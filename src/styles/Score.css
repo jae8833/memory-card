@@ -1,0 +1,11 @@
+.score-container {
+    text-align: end;
+}
+
+#best-score {
+    margin: 12px;
+}
+
+#score {
+    margin: 12px;
+}

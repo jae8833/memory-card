@@ -1,0 +1,9 @@
+.card-container, img {
+    width: 300px;
+    height: 400px;
+}
+
+img:hover {
+    cursor: pointer;
+    filter: drop-shadow(10px 10px 10px rgb(5, 135, 242));
+}
