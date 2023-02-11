@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Memory Card
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This react application is a memory card game that features 12 demon slayer characters that get shuffled around the page when the user clicks on them. The score and best score are updated and displayed dynamically as the user plays the game.
 
 ## Available Scripts
 
