@@ -1,0 +1,2 @@
+.score-container{text-align:end}#best-score,#score{margin:12px}.header-container{text-align:center}.card-container,img{height:400px;width:300px}img:hover{cursor:pointer;-webkit-filter:drop-shadow(10px 10px 10px #0587f2);filter:drop-shadow(10px 10px 10px rgb(5,135,242))}.cards-container{grid-gap:50px;display:grid;gap:50px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));justify-items:center;padding:30px}body,html{background-color:ivory;box-sizing:border-box;margin:0}
+/*# sourceMappingURL=main.3a638bb5.css.map*/

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.3a638bb5.css",
+    "main.js": "/memory-card/static/js/main.9366777a.js",
+    "static/media/memory-card-9.jpeg": "/memory-card/static/media/memory-card-9.c980a9e9d4454bbf96bc.jpeg",
+    "static/media/memory-card-8.jpeg": "/memory-card/static/media/memory-card-8.50748b5eb5e8ac4fff8e.jpeg",
+    "static/media/memory-card-10.webp": "/memory-card/static/media/memory-card-10.c525500254cc8897e885.webp",
+    "static/media/memory-card-4.jpeg": "/memory-card/static/media/memory-card-4.442f5829a643ffc65308.jpeg",
+    "static/media/memory-card-12.jpeg": "/memory-card/static/media/memory-card-12.5cab5738fe7aaa6be04c.jpeg",
+    "static/media/memory-card-6.jpeg": "/memory-card/static/media/memory-card-6.bbd63a41127d66935e2b.jpeg",
+    "static/media/memory-card-3.jpeg": "/memory-card/static/media/memory-card-3.0f69389ec83abcb1cbd2.jpeg",
+    "static/media/memory-card-11.webp": "/memory-card/static/media/memory-card-11.f4737a2255b2177dd052.webp",
+    "static/media/memory-card-1.jpeg": "/memory-card/static/media/memory-card-1.27e942ea2f24fc4079b1.jpeg",
+    "static/media/memory-card-2.jpeg": "/memory-card/static/media/memory-card-2.ea6a69648f8d5f2552ac.jpeg",
+    "static/media/memory-card-7.jpeg": "/memory-card/static/media/memory-card-7.03d279ab927f1e118a4f.jpeg",
+    "static/media/memory-card-5.jpeg": "/memory-card/static/media/memory-card-5.c67b469581d83d2c04cb.jpeg",
+    "index.html": "/memory-card/index.html",
+    "main.3a638bb5.css.map": "/memory-card/static/css/main.3a638bb5.css.map",
+    "main.9366777a.js.map": "/memory-card/static/js/main.9366777a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a638bb5.css",
+    "static/js/main.9366777a.js"
+  ]
+}
